@@ -9,7 +9,6 @@ Este repositório contém a resolução de cinco questões propostas em um desaf
 
 ## Estrutura dos Arquivos
 
-.
 ├── questao1.py           # Soma de 1 até 13 usando laço
 
 ├── questao2.py           # Verifica se um número pertence à sequência de Fibonacci
