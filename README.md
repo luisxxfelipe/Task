@@ -11,11 +11,17 @@ Este repositório contém a resolução de cinco questões propostas em um desaf
 
 .
 ├── questao1.py           # Soma de 1 até 13 usando laço
+
 ├── questao2.py           # Verifica se um número pertence à sequência de Fibonacci
+
 ├── questao3.py           # Analisa dados de faturamento via JSON
+
 ├── questao4.py           # Calcula o percentual de participação por estado
+
 ├── questao5.py           # Inverte uma string manualmente
+
 ├── faturamento.json      # Dados para a questão 3
+
 
 ## Como Executar
 
